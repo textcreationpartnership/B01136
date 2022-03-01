@@ -1,0 +1,852 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A crovvne for a conquerour; and Too late to call backe yesterday. Two poems, the one divine and the other morall. / By R.D.</title>
+            <author>Davenport, Robert, fl. 1623.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1639</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01136</idno>
+            <idno type="STC">STC 6314</idno>
+            <idno type="STC">ESTC S123099</idno>
+            <idno type="EEBO-CITATION">52633138</idno>
+            <idno type="OCLC">ocm 52633138</idno>
+            <idno type="VID">173953</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173953)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2113:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A crovvne for a conquerour; and Too late to call backe yesterday. Two poems, the one divine and the other morall. / By R.D.</title>
+                  <author>Davenport, Robert, fl. 1623.</author>
+                  <author>Purslowe, Elizabeth, printer.</author>
+                  <author>Constable, Francis, d. 1647, bookseller.</author>
+                  <author>Davenport, Robert, fl. 1623. Too late to call backe yesterday.</author>
+               </titleStmt>
+               <extent>[2], 23 [i.e. 19] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.P. for Francis Constable, and are to be sold at his shop, under Saint Martins Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1639.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Too late to call backe yesterday" has a separate t.p. but continuous pagination and continuous signatures.</note>
+                  <note>Second t.p. has printers' device (McK. 311).</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Imperfect: cropped, with loss of print.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173953:1"/>
+            <p>A CROVVNE FOR A CONQUEROUR; AND TOO LATE TO CALL BACKE YESTERDAY.</p>
+            <p>
+               <hi>Two Poems,</hi> The one Divine, the other Morall.</p>
+            <p>
+               <hi>By R. D.</hi>
+            </p>
+            <p>LONDON: Printed by E. P. for Francis Conſtable, and are to be ſold at his ſhop, under Saint Martins Church, at Ludgate<g ref="char:punc">▪</g> 163<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="poem">
+                  <pb facs="tcp:173953:2"/>
+                  <pb facs="tcp:173953:2"/>
+                  <head>A CROWNE FOR A CONQVEROVR: Made apparant in theſe words.</head>
+                  <epigraph>
+                     <q>Behold I come quickly, and my reward is with me,</q>
+                     <bibl>REV. 20. 12.</bibl>
+                  </epigraph>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">B</seg>Ehold? why <hi>Lord,</hi> is thy approach ſo rare,</l>
+                     <l>That it deſerves an <hi>Ecce? Ecces</hi> are</l>
+                     <l>Vſhers to admirable things. 'Tis true,</l>
+                     <l>If I (with ſpirit-raviſh'd <hi>Iohn)</hi> take view,</l>
+                     <l>Of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e in thy celeſtiall ſeat, thy ſight</l>
+                     <l>Is cleare as Chryſtall, as the <hi>Sardin</hi> bright,</l>
+                     <l>And rounded with a raine-bow; twice 12 ſeates,</l>
+                     <l>(Whereon the ſhine of thy faire brightneſſe beates,)</l>
+                     <l>Bearing theſe foure and twenty Elders, all</l>
+                     <l>With white roabes, Palmes, and Crownes Imperial,</l>
+                     <l>This ſure deſerves an <hi>Ecce.</hi> Or at thy laſt</l>
+                     <l>And generall comming <hi>Lord,</hi> when thou ſhalt caſt</l>
+                     <l>A<gap reason="illegible" resp="#APEX" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>oniſhment on all things, and deſcend</l>
+                     <l>With an Earth-ſhaking ſhout, when hils ſhall bend</l>
+                     <l>And rocks diſſolve at the Arch-Angels voyce,</l>
+                     <l>
+                        <pb n="2" facs="tcp:173953:3"/>
+And towers tremble at the Trumpets noyſe,</l>
+                     <l>This ſure deſerves an <hi>Ecce.</hi> But my Lord,</l>
+                     <l>(Give Duſt and Aſhes leave to ſpeake, afford</l>
+                     <l>My frailey ſo much favour) when thou doom'ſt</l>
+                     <l>A ſicke Saint on his bed to death, and comſt</l>
+                     <l>In a particular iudgement, Lord unfold</l>
+                     <l>Where lyes this word of wonder then, BEHOLD?</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Chriſt.</hi> When your ſick ſaint lyes gaſping, and his ſoule,</l>
+                     <l>Forſaken of the ſenſes, when his ſoule</l>
+                     <l>And deadly foe trumphs in h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s temptations,</l>
+                     <l>And with diſtruſtsand frequent perturbations</l>
+                     <l>Buffets his panting faith, and ſhewes his ſinnes</l>
+                     <l>Had in their circumſtances, and begins</l>
+                     <l>To blaſt the beauty of his hope, from thence,</l>
+                     <l>Implying that ſoule pierceing conſequence</l>
+                     <l>Of condigne iuſtice, from my deſerved rod,</l>
+                     <l>And askes your ſick ſaint, <hi>where is now thy God?</hi>
+                     </l>
+                     <l>Then, and even then, when his feare ſhaken faith,</l>
+                     <l>(Save, ſighes and greanes) no plea for pardon hath;</l>
+                     <l>Even when your ſaith doth faint, and in this throng</l>
+                     <l>Of fiery tryals, can but truely long</l>
+                     <l>For my ſalvation, <hi>then when Gyants warre</hi>
+                     </l>
+                     <l>
+                        <hi>Againſt his weckeneſse, when the heathen are</hi>
+                     </l>
+                     <l>
+                        <hi>Within my heritage his heart, and he</hi>
+                     </l>
+                     <l>
+                        <hi>Looking upon his right hand, but can ſee</hi>
+                     </l>
+                     <l>
+                        <hi>None that will pitty him, and on his left,</hi>
+                     </l>
+                     <l>
+                        <hi>But none compasſionates, ſeeming bereft</hi>
+                     </l>
+                     <l>
+                        <pb n="3" facs="tcp:173953:3"/>
+Of helpe and hope, then gets his trembling ſoule</l>
+                     <l>To me his God, right humbly, and doth roule</l>
+                     <l>If ſelfe upon me, as the Hart doth pant</l>
+                     <l>After the brooke ſo doth his ſaith, being faint</l>
+                     <l>With theſe hot purſuits, thirſt for me his God.</l>
+                     <l>Then lay I by my exerciſing rod,</l>
+                     <l>And lend my ſtaffe of comfort, this bruis'd reed</l>
+                     <l>I breake not, but ſupport; whilſt he doth bleed,</l>
+                     <l>I bring him balme from <hi>Gilead:</hi> tell me you</l>
+                     <l>That modeſtly, yet queſtion'd, is there not due,</l>
+                     <l>To ſuch great grace an <hi>Ecce?</hi> Even when</l>
+                     <l>Your Saint lyes languageleſſe, being left of men,</l>
+                     <l>Tempted within, his faith, even like to dye,</l>
+                     <l>Doth ſore-ſicke of a ſpirituall ague lye<g ref="char:punc">▪</g>
+                     </l>
+                     <l>When nature failes, and conſcience gives his doome,</l>
+                     <l>
+                        <hi>God hath forgot thee,</hi> then BEHOLD I come.</l>
+                  </lg>
+                  <lg>
+                     <head>J Come.</head>
+                     <l>TWo wayes I come: yet as in fields we ſee</l>
+                     <l>Diverſe paths pointed upon one ſtile be;</l>
+                     <l>So, every way I to mine owne appeare,</l>
+                     <l>Tends to Eternity. Firſt I draw neere</l>
+                     <l>By my ſweet Spirit, the nobleſt company</l>
+                     <l>That can be kept, and the deepe myſtery</l>
+                     <l>Of your ſicke Saints ſalvation he makes plaine,</l>
+                     <l>Teaching him more then's whole life could attaine.</l>
+                     <l>
+                        <pb n="4" facs="tcp:173953:4"/>
+When I bid death goe, then I come indeed,</l>
+                     <l>And ſhew him my ſalvation, then the good ſpeed,</l>
+                     <l>Of Faith and Patience comes, and makes him cry,</l>
+                     <l>Oh large rewa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d for little induſtry.</l>
+                  </lg>
+                  <lg>
+                     <head>Quickly.</head>
+                     <l>BVt drinke ſet in a thirſty labourers eye,</l>
+                     <l>And not in's reach, augments his miſery.</l>
+                     <l>Or ſay a friend doe bring it, each delay</l>
+                     <l>Leſſens the courteſie, and makes more way</l>
+                     <l>To tothers torment: therefore (thou ſad ſoule</l>
+                     <l>That ſighſt to be diſſolv'd, and do'ſt condole</l>
+                     <l>My long thought ſtay) BEHOLD! as I with grace</l>
+                     <l>Doe come, ſo I <hi>come</hi> QVICKLY, I whoſe face</l>
+                     <l>The <hi>Builders</hi> ſpat on, I the refusd ſtone,</l>
+                     <l>(Their ſcourge,) will be to thee a Saviour ſhowne.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Chriſtian.</hi> O wounded <hi>Maſter!</hi> now I know tis thee</l>
+                     <l>Eagle-eyed faith informes me, ſhe doth ſee</l>
+                     <l>The wide wound in thy ſide, thy holy head</l>
+                     <l>Thruſt through with thorns, when al thy body bled.</l>
+                     <l>Comſt thou deare maſter? comſt thou quickly too?</l>
+                     <l>Look ſoul, what he, for whom th'aſt ſighd doth do!</l>
+                     <l>He comes, and he comes for thee, fairely greet him,</l>
+                     <l>
+                        <hi>It is the Bridegroome, ſoule, goe forth and me<gap reason="illegible" resp="#APEX" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t him.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>And my reward is with me.</head>
+                     <l>The world ſaith ſtill, <hi>The more haſte, the worſe ſpeed,</hi>
+                     </l>
+                     <l>Haſte makes no waſte with me; what was decreed,</l>
+                     <l>
+                        <pb n="5" facs="tcp:173953:4"/>
+To guerdon thy ſharp ſufferings, I have not</l>
+                     <l>Sent by a ſwifter convoy, nor forgot.</l>
+                     <l>As I come quickly, ſo, Behold; I bring</l>
+                     <l>
+                        <hi>My reward</hi> with me, <hi>Triumph</hi> for <hi>ſuffering.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>Chriſtian.</head>
+                     <l>Thy reward Lord? tis thine yet, but for mee</l>
+                     <l>Thou broughtſt it ſure, if thine, tis mine, for wee</l>
+                     <l>Were long ſince troth plight to each other wrong,</l>
+                     <l>I ſing elſe of thee in the ſweet <hi>Love-ſonge.</hi>
+                     </l>
+                     <l>There I proteſt in a truth all diuine,</l>
+                     <l>
+                        <hi>I my beloveds am, and hee is mine.</hi>
+                     </l>
+                     <l>But (my hearts noble <hi>Maſter)</hi> what may it bee</l>
+                     <l>Thou calſt heere thy <hi>Reward? Me thinks</hi> I ſee</l>
+                     <l>In thy white, liberall hand a <hi>Crowne,</hi> and ſet</l>
+                     <l>With ſeuen celeſtiall ſtones (none counterfet.)</l>
+                     <l>Bearing theſe names, <hi>Election, Creation,</hi>
+                     </l>
+                     <l>
+                        <hi>Redemption,</hi> and that midle Iemme <hi>Vocation.</hi>
+                     </l>
+                     <l>
+                        <hi>Sanctification, Iuſtification,</hi> and</l>
+                     <l>
+                        <hi>Glorification.</hi> Theiſe ſeuen ſtones doe ſtand</l>
+                     <l>About this <hi>Crowne</hi> more glorious then the ſtars</l>
+                     <l>And this is their <hi>Reward,</hi> die in thy warres.</l>
+                     <l>For me this crowne? oh what ſweete paines I prove!</l>
+                     <l>
+                        <hi>Grace giues the Wound,</hi> and I <hi>lye ſick of Love.</hi>
+                     </l>
+                     <l>
+                        <hi>Alas</hi> Lord, my vnworthynes!</l>
+                  </lg>
+                  <lg>
+                     <pb n="6" facs="tcp:173953:5"/>
+                     <l>
+                        <hi>Chriſt.</hi> Forbeare.</l>
+                     <l>Though you to Heaven might <hi>paſſe through humble tears</hi>
+                     </l>
+                     <l>Yet in Mee all your worthineſſe is come</l>
+                     <l>Before my Father. I have given in the ſumme</l>
+                     <l>Of all your ſufferings, all your ſighes, your teares,</l>
+                     <l>Your gracious groanings, your faith-vanquiſht fears;</l>
+                     <l>Your prayers, your almes, your earning bowels, when</l>
+                     <l>Y'ave knowne me hungry, in poore helpeleſſe men.</l>
+                     <l>Your pious acts, which ſhall preſerve your name</l>
+                     <l>Sweet as a perfume in the mouth of Fame.</l>
+                     <l>What think you this (ſumm'd up in heaven) will be?</l>
+                     <l>Truely the Totall is Eternity.</l>
+                     <l>Have you not heard of one <hi>Oneſimus.</hi>
+                     </l>
+                     <l>
+                        <hi>Paul</hi> did but write for him, I will ſpeake thus</l>
+                     <l>For you my deare one, <hi>Father I beſeeche</hi>
+                     </l>
+                     <l>
+                        <hi>Thy Mercy for this ſinner. Let my ſpeech</hi> 
+                        <note place="margin">Phile-</note>
+                     </l>
+                     <l>Be <hi>prevalent, as with him was my word,</hi>
+                     </l>
+                     <l>
+                        <hi>Which unto Faith begot him: yet afford</hi>
+                     </l>
+                     <l>
+                        <hi>Mee audience Holy Father; in times paſt</hi>
+                     </l>
+                     <l>
+                        <hi>He was unprofitable, but this laſt</hi>
+                     </l>
+                     <l>
+                        <hi>Part of his life (full of ſincerity)</hi>
+                     </l>
+                     <l>
+                        <hi>Was fruitfull to the faithfull and to me.</hi>
+                     </l>
+                     <l>
+                        <hi>T'was for a ſeaſon he went from thee ſure,</hi>
+                     </l>
+                     <l>
+                        <hi>That thou for ever mightſt receive him; Cure</hi>
+                     </l>
+                     <l>
+                        <hi>His wounded conſcience, and accept him now,</hi>
+                     </l>
+                     <l>
+                        <hi>Not as a ſervant</hi> LORD, <hi>to him allow,</hi>
+                     </l>
+                     <l>
+                        <pb n="7" facs="tcp:173953:5"/>
+                        <hi>The liberty of a beloved Sonne.</hi>
+                     </l>
+                     <l>
+                        <hi>Oh righteous Father! if this Saint hath runne</hi>
+                     </l>
+                     <l>
+                        <hi>In areares with thee, if bee owe thee ought,</hi>
+                     </l>
+                     <l>
+                        <hi>Put it to my accounts, for I have bought</hi>
+                     </l>
+                     <l>
+                        <hi>Him highly, yet that thou ſuſtaine no loſſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Deare Father, ſcore his debt upon my Croſſe.</hi>
+                     </l>
+                     <l>Thus will I ſpeak for him whom ſin caſts down,</l>
+                     <l>Thus plead his Cauſe to whom I give this <hi>Crowne.</hi>
+                     </l>
+                  </lg>
+                  <sp>
+                     <speaker>Chriſtian.</speaker>
+                     <p>But Lord, before I of this grace be ſped, Admit my Faith fail, then I loſe the head, (down, Should wear this wreath, faith beats all enemies And overcomes the world, to ſuch this Crowne By promiſe appertaines.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Chriſt.</speaker>
+                     <p>With patience ſit, I that keepe it for thee, keepe thee for it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Chriſtian.</speaker>
+                     <p>Then I receive it with all due regard, Not as my merit <hi>(Lord)</hi> but thy reward.</p>
+                  </sp>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:173953:6"/>
+                  <pb facs="tcp:173953:6"/>
+                  <p>TOO LATE TO CALL BACKE YESTERDAY.</p>
+                  <p>AND, TO-MORROW COMES NOT YET.</p>
+                  <p>
+                     <hi>The words fancied in a</hi> DIALOGVE, <hi>ſuppoſed betweene A LOVER AND THE DAY.</hi>
+                  </p>
+                  <p>By R. D.</p>
+                  <figure>
+                     <q>NOLI ALTVM <gap reason="illegible" resp="#APEX" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </q>
+                     <figDesc>printer's device of Elizabeth Purslowe</figDesc>
+                  </figure>
+                  <p>
+                     <hi>LONDON</hi> Printed by E.P. for <hi>Francis Conſtable</hi> 163<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:173953:7"/>
+                  <pb facs="tcp:173953:7"/>
+                  <head>TO MY NOBLE FRIENDS, M<hi rend="sup">r</hi> RICHARD ROBINSON, And M<hi rend="sup">r</hi> MICHAEL BOWYER.</head>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">T</seg>Heſe Poems (true and Noble Friends) being ſome expence of my time at Sea, I have thus ha<g ref="char:EOLhyphen"/>bited, to preſent them as my true love to you on the Land. In one morning J preſent you with two poems. They are Virgins that never before kiſt the Preſse, yet now come ready preſt to kiſse your hands. J have phraſed them rather with a na<g ref="char:EOLhyphen"/>tive familiarity, then an impertinent Ele<g ref="char:EOLhyphen"/>gancy, leaſt by diſregulating Art, J had made nature monſtrous. Yet where the digni<g ref="char:EOLhyphen"/>ty of the ſubiect duely invites a higher-valu<g ref="char:EOLhyphen"/>ed language, J have (to my ability) endea<g ref="char:EOLhyphen"/>vored
+<pb facs="tcp:173953:8"/>
+a redemption. Were I verſd in the tricke of flattery, I ſhould have Deckt my de<g ref="char:EOLhyphen"/>dication with ſome proteſtations of your wor<g ref="char:EOLhyphen"/>thineſſe and my love But I ſuppoſe honeſt faithfulneſse rather blemiſhed then embelliſh<g ref="char:EOLhyphen"/>edwith thoſe adulterated beauties; Favour mee to read this Meſſenger of my love; and more, to Accept it as the fruites of thoſe faire reſpects in which (as J euer was) I am alwaies,</hi>
+                  </p>
+                  <closer>
+                     <signed>At your commandement a ſervant, ROB. DAVENPORT.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="poem">
+                  <pb n="17" facs="tcp:173953:8"/>
+                  <head>TOO LATE TO CALL BACK YESTERDAY; AND TO-MORROW COMES NOT YET.</head>
+                  <lg>
+                     <l>
+                        <hi>He yeſterday a Lover was,</hi>
+                     </l>
+                     <l>
+                        <hi>To-morrow comes to Age,</hi>
+                     </l>
+                     <l>
+                        <hi>He cals, both fayle: towards Heaven to-day</hi>
+                     </l>
+                     <l>
+                        <hi>He points his pilgrimage.</hi>
+                     </l>
+                  </lg>
+                  <sp>
+                     <speaker>Lover</speaker>
+                     <l>
+                        <seg rend="decorInit">H</seg>O! yeſterday!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Yeſter.</speaker>
+                     <l>Who cals?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lover.</speaker>
+                     <l>A Lover.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Yeſter.</speaker>
+                     <l>Why?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lover.</speaker>
+                     <l>Deare yeſterday come backe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Yeſter.</speaker>
+                     <l>Lover not I,</l>
+                  </sp>
+                  <sp>
+                     <l>
+                        <hi>I</hi> dare not ſo tranſgreſſe againſt times glaſſe,</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lover</speaker>
+                     <l>One word—but one word</l>
+                  </sp>
+                  <sp>
+                     <speaker>Yeſter.</speaker>
+                     <l>Not one: let me paſſe.</l>
+                     <l>
+                        <pb n="18" facs="tcp:173953:9"/>
+                        <hi>By the Dewes that deckt thy lockes,</hi>
+                     </l>
+                     <l>
+                        <hi>By the Heards, and by the Flockes,</hi>
+                     </l>
+                     <l>
+                        <hi>By Times oft Wel-taken Lock.</hi>
+                     </l>
+                     <l>
+                        <hi>By the Swallow, Cy the Coke</hi>
+                     </l>
+                     <l>
+                        <hi>That tould the Ploughman thy approach,</hi>
+                     </l>
+                     <l>
+                        <hi>And that the Sunne was taking Coach,</hi>
+                     </l>
+                     <l>
+                        <hi>By the Dainty-languag'd Larke.</hi>
+                     </l>
+                     <l>
+                        <hi>By every thing that hates the Darke,</hi>
+                     </l>
+                     <l>Good yeſterday come backe.</l>
+                     <l>
+                        <hi>By thy faire and lovely Face,</hi>
+                     </l>
+                     <l>
+                        <hi>And by the Sun which gave that grace</hi>
+                     </l>
+                     <l>Sweet Yeſterday come backe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Yeſt.</speaker>
+                     <l>What ſhould I doe?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>I gave my Miſtris vowes, nay and teares to;</l>
+                     <l>Bring them all backe, for (oh ſad truth to ſay!)</l>
+                     <l>She ſeem'd true then, I find her falſe To-Day.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Yeſter-Day.</speaker>
+                     <l>What's this to me? their griefs they paſt cure find,</l>
+                     <l>Who (to give love eyes) ſtrike their <hi>Reaſon</hi> blind.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>I ſtain'd thy faire face with a foule ſin, bring</l>
+                     <l>But that then backe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Yeſt.</speaker>
+                     <l>Foole! hope for no ſuch thing.</l>
+                     <l>Goe grieve, goe weep; &amp; let thy teare-ſtain'd face</l>
+                     <l>Court <hi>Mercy,</hi> and beget thee new to grace.</l>
+                     <l>
+                        <pb n="19" facs="tcp:173953:9"/>
+For, to repent is nere too late, all ſay.</l>
+                     <l>But 'tis <hi>Too late to call backe yeſterday.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>Why then (my blinded <hi>Reaſon</hi> to reſtore)</l>
+                     <l>
+                        <hi>I'le leave to Love, and love to ſinne no more.</hi>
+                     </l>
+                  </sp>
+                  <p>TO-MORROW COMES NOT YET.</p>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>Since then <hi>yeſterday</hi> is gon,</l>
+                  </sp>
+                  <sp>
+                     <speaker>To-Morrow!</speaker>
+                     <l>wing thee, haſte, come on.</l>
+                  </sp>
+                  <sp>
+                     <speaker>To-M.</speaker>
+                     <l>I muſt not looke <hi>To-Day</hi> i'th face.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>Yet good <hi>To-Morrow</hi> mend thy pace.</l>
+                  </sp>
+                  <sp>
+                     <speaker>To-M.</speaker>
+                     <l>I dare not.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>Why?</l>
+                  </sp>
+                  <sp>
+                     <speaker>To-M.</speaker>
+                     <l>If I too ſwiftly paſſe,</l>
+                     <l>I preſſe <hi>Times</hi> ſands too hard, and breake his glaſſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>
+                        <hi>By my</hi> Hopes <hi>to thee extended.</hi>
+                     </l>
+                     <l>
+                        <hi>By the</hi> Feares <hi>of men condemned.</hi>
+                     </l>
+                     <l>
+                        <hi>By the</hi> Ioyes <hi>thou briug'ſt along.</hi>
+                     </l>
+                     <l>
+                        <hi>By the</hi> Griefs <hi>that with thee throng.</hi>
+                     </l>
+                     <l>
+                        <hi>By the promiſ'd meetings made.</hi>
+                     </l>
+                     <l>
+                        <hi>By the money thou't ſee payde.</hi>
+                     </l>
+                     <l>
+                        <hi>By their gladneſſe that receive it.</hi>
+                     </l>
+                     <l>
+                        <hi>By their ſadneſſe that doe heare it.</hi>
+                     </l>
+                     <l>
+                        <hi>By thoſweet Maydes languiſhings</hi>
+                     </l>
+                     <l>
+                        <hi>To whoſe beds thine Evening brings</hi>
+                     </l>
+                     <l>
+                        <hi>Kind husbands,</hi> To-Morrow <hi>make haste.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>To-Mo.</speaker>
+                     <l>Why?</l>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <pb n="20" facs="tcp:173953:10"/>Lov.</speaker>
+                     <l>Shall I tell thee merrily?</l>
+                     <l>With thee my lands come to my hands,</l>
+                     <l>and ſommes of money ſtore.</l>
+                     <l>With thee I'le laugh, caper and quaffe,</l>
+                     <l>and never mind a Miſtriſſe more.</l>
+                  </sp>
+                  <sp>
+                     <speaker>To-Mo.</speaker>
+                     <l>This haſts not me. I muſt perforce refuſe thee</l>
+                     <l>
+                        <hi>Better not ſee, then ſee me and abuſe me.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>Why then <hi>To-Morow</hi> make a friendly haſt,</l>
+                     <l>And my wild, rough, old WILL I will new caſt.</l>
+                     <l>I, that <hi>To-Day</hi> am practiz'd in the trade</l>
+                     <l>Of ſin, I will To-morrow be new made.</l>
+                     <l>Therefore <hi>To-Morrow</hi> make haſt.</l>
+                  </sp>
+                  <sp>
+                     <speaker>To-Mo.</speaker>
+                     <l>Thus ſome ſay,</l>
+                     <l>Who are found worſe <hi>To-Morrow</hi> then <hi>To-Day.</hi>
+                     </l>
+                     <l>When <hi>Verbaliſts</hi> ſubdue our eaſie truſt,</l>
+                     <l>We plough in ſand, and write our hopes in duſt.</l>
+                     <l>Diſſembler ceaſe; ſwift vowes we ſoone forget,</l>
+                     <l>Repent <hi>To-Day To-Morrow comes not yet.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>Why then (to ſhun ſucceſſion of my ſorrow)</l>
+                     <l>
+                        <hi>I'le be new made To-day, yet mend To-Morrow.</hi>
+                     </l>
+                  </sp>
+                  <p>TO-DAY WHILE I MAY.</p>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>Well met <hi>To-Day.</hi> Why ſuch great haſt?</l>
+                  </sp>
+                  <sp>
+                     <speaker>To-Day.</speaker>
+                     <l>To pleaſe</l>
+                     <l>The long<gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng eyes of the <hi>Antipodes.</hi>
+                     </l>
+                     <l>
+                        <pb n="21" facs="tcp:173953:10"/>
+                        <hi>Yeſterday</hi> is their <hi>Day,</hi> in joy and ſorrow.</l>
+                     <l>And I, thatam thy <hi>Day,</hi> I am their <hi>Morrow.</hi>
+                     </l>
+                     <l>The round fac'd world is look't on by us three,</l>
+                     <l>I purſue <hi>Yeſterday, To-Morrow</hi> mee.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lo.</speaker>
+                     <l>Yet good <hi>To-Day</hi> doe not ſo ſwiftly ſlide.</l>
+                     <l>
+                        <hi>By the cauſes this</hi> Day <hi>tride.</hi>
+                     </l>
+                     <l>
+                        <hi>By thy beauty And. by all.</hi>
+                     </l>
+                     <l>
+                        <hi>Thy dainty Deckings. By the fall</hi>
+                     </l>
+                     <l>
+                        <hi>Of thy ſweet fertile ſhowres. And by</hi>
+                     </l>
+                     <l>
+                        <hi>Thy againe unclouded eye.</hi>
+                     </l>
+                     <l>
+                        <hi>By the Birds that ſing thy grace.</hi>
+                     </l>
+                     <l>
+                        <hi>By the winds that fanne thy face,</hi>
+                     </l>
+                     <l>
+                        <hi>By thy foure and twenty ſteps.</hi>
+                     </l>
+                     <l>
+                        <hi>By thy minutes active leapes,</hi>
+                     </l>
+                     <l>
+                        <hi>By my intended goodneſſe. And</hi>
+                     </l>
+                     <l>
+                        <hi>By times ſtrickt-obſerved ſand.</hi>
+                     </l>
+                     <l>Since tis too late, as all men ſay,</l>
+                     <l>To call backe gadding yeſterday.</l>
+                     <l>And ſince <hi>To-morrow</hi> comes not yet,</l>
+                     <l>To my paine a period ſet.</l>
+                     <l>Being left alone to thee,</l>
+                     <l>Good <hi>To-day</hi> ſtay, be kind and pitty me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>To D.</speaker>
+                     <l>And why, important pleader, ſhould I ſtay?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lover</speaker>
+                     <l>I feele a noble change methinkes to day,</l>
+                     <l>My ſoules deare Lover cals for me his choyce,</l>
+                     <l>And I deſire to day to heare his voyce.</l>
+                     <l>
+                        <pb n="22" facs="tcp:173953:11"/>
+Inlarge not then my griefes by thy neglect,</l>
+                     <l>But let my high cauſe court thy kind reſpect.</l>
+                  </sp>
+                  <sp>
+                     <speaker>To D.</speaker>
+                     <l>This ſtops not me, Farewell, <hi>I</hi> muſt away.</l>
+                     <l>Lovers call for me paſt <hi>America.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Love.</speaker>
+                     <l>Why then deare lover of my ſoule,</l>
+                     <l>(Since <hi>I</hi> cannot times controule)</l>
+                     <l>Seeke thy ſheep, loſt in this worlds brackey ground,</l>
+                     <l>Seeke him that doth deſire to be found.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Chriſt.</speaker>
+                     <l>Why wooeſt thou me? have ſinners hope to ſpeed?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>True Lord, a ſinner, yet a broken <hi>Kneed.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Chriſt.</speaker>
+                     <l>Thy life is ſpotted, foule, and blacke as night</l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>True <hi>Maſter,</hi> but thy life was virgin white.</l>
+                     <l>
+                        <hi>By thy Love my hearts Delight.</hi>
+                     </l>
+                     <l>
+                        <hi>By thy un-match'd excellence.</hi>
+                     </l>
+                     <l>
+                        <hi>By thy victorious Patience.</hi>
+                     </l>
+                     <l>
+                        <hi>By thy comely ſilence, when</hi>
+                     </l>
+                     <l>
+                        <hi>Thou (my God) wert skorn'd of men.</hi>
+                     </l>
+                     <l>
+                        <hi>By that ſweet, and ſaving looke</hi>
+                     </l>
+                     <l>
+                        <hi>Thou didſt caſt back on Peters</hi> Booke</l>
+                     <l>Me in thy mercy. Let thy grace abound.</l>
+                     <l>Seeke him, that doth deſire to be found.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Chr.</speaker>
+                     <l>Tell me oh thou for whom I bled, (I ſee</l>
+                     <l>A <hi>Majeſtie</hi> in thy <hi>Humilitie)</hi>
+                     </l>
+                     <l>
+                        <pb n="23" facs="tcp:173953:11"/>
+And therefore tell me my loſt ſheep, be true,</l>
+                     <l>And tell me where thou feed'ſt. A teare or two</l>
+                     <l>Will bring thee backe. Or, if th'art gon aſtray,</l>
+                     <l>I'le ſend <hi>A voyce behind thee, that ſhall ſay</hi>
+                     </l>
+                     <l>
+                        <hi>This is the, way walke in't.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Lov.</speaker>
+                     <l>I am not in</l>
+                     <l>Thy SPICIE GARDEN, but a Sea of ſin.</l>
+                     <l>I feede not Lord amongſt the LILLIES, No;</l>
+                     <l>I feaſt with mine owne follies. Since 'tis ſo</l>
+                     <l>That YESTERDAY I was loſt in this ground,</l>
+                     <l>And being not ſure TO-MORROW to be found;</l>
+                     <l>Deere <hi>Maſter,</hi> and good <hi>Shepherd;</hi> mind thy gaines,</l>
+                     <l>
+                        <hi>Find me</hi> TO-DAY, <hi>and take me for thy paines.</hi>
+                     </l>
+                  </sp>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
